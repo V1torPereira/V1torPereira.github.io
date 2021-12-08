@@ -1,0 +1,96 @@
+body{
+    background-color: #C576F6;   
+}
+
+.N1 {
+    padding: 5px;
+    text-align: center;
+
+}
+
+p {
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 500px;
+    text-align: center;
+}
+a {
+    text-decoration: none;
+} 
+a link, :visited {
+    color: transparent;
+}
+/*links hover*/
+a:hover {
+    text-decoration: none;
+    color: rgb(243, 251, 253);
+}
+
+.titulo {
+    text-align: center;
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#N2, h1 {
+    overflow: hidden;
+    background-color:#C576F6;
+    text-align: center;
+    height: max-content;
+
+}
+#N3 {
+    text-align: left;
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#N4 {
+    text-align: left;
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2 {
+    border-style: outset;
+}
+#Border {
+    border-bottom-style: double;
+    border-bottom: solid;
+}
+#N5{
+    float: left;
+    border: solid rgb(250, 176, 250);
+    width: 49%;
+    height: 43%;
+    text-align: center;
+    font-size: 13px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#N7 {
+    float: left;
+    border: solid rgb(250, 176, 250);
+    width: 50%;
+    height: 43%;
+    text-align: center;
+    font-size: 13px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#N8 {
+    float: left;
+    border: solid rgb(250, 176, 250);
+    width: 100%;
+    height: 48%;
+    text-align: center;
+    font-size: 13px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#N9 {
+    background-color: rgb(44, 6, 44);
+    border: transparent;
+    width: 100%;
+    height: ma;
+}
+.N6 {
+    float: left;
+    padding-left: 20%;
+}
+
+
